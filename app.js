@@ -94,7 +94,6 @@ const undraw = () => {
   });
 };
 
-// timerID = setInterval(moveDown, 500);
 
 document.addEventListener('keydown', (event) => {
   if (isPlaying) {
